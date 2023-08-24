@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hai-server": "^0.0.4",
+    "lite-server": "^2.6.1"
+  }
+}
